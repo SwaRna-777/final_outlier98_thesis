@@ -1,0 +1,4 @@
+risk_band,samples,mean_predicted,observed_low_execution_rate
+low,3674,0.1366,0.1418
+medium,1138,0.5620,0.5791
+high,1548,0.8188,0.8385

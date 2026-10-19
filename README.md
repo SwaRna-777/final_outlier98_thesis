@@ -53,6 +53,19 @@ Model artefact SHA-256:
 
 `8205a15ec89d4ad288f00d109718e3e81ff0a4298fb4011ce662e59e8a9e6885`
 
+## Reproducible analysis
+
+| Resource | Description |
+|---|---|
+| [notebooks/Model_V3_Data_Analysis.ipynb](notebooks/Model_V3_Data_Analysis.ipynb) | Executable Model v3 Data Science analysis |
+| [data/model_v3_synthetic_dataset.csv](data/model_v3_synthetic_dataset.csv) | Synthetic behavioural dataset used for Model v3 |
+| [MODEL_V3_ANALYSIS.md](MODEL_V3_ANALYSIS.md) | Modelling methodology |
+| [MODEL_V3_METRICS.md](MODEL_V3_METRICS.md) | Evaluation results |
+| [MODEL_V3_FEATURES.md](MODEL_V3_FEATURES.md) | Feature definitions |
+| [MODEL_V3_REPRODUCIBILITY.md](MODEL_V3_REPRODUCIBILITY.md) | Reproducibility information |
+
+The dataset is synthetic and contains no real participant information.
+
 ## Interpretation boundary
 
 All reported predictive-performance values are held-out synthetic results. They show technical behaviour of the modelling pipeline under the assumptions of the synthetic generator. They do not establish real-world predictive validity, causal effects, or population-level generalisability.

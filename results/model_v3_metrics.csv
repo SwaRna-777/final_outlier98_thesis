@@ -1,0 +1,9 @@
+metric,value
+roc_auc,0.878483
+accuracy,0.802673
+majority_baseline_accuracy,0.610377
+precision,0.759660
+recall,0.721953
+f1,0.740327
+log_loss,0.432822
+brier_score,0.137641
